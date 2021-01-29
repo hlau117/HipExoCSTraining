@@ -1,0 +1,15 @@
+leftJointPosition
+rightJointPosition
+leftJointVelocity
+rightJointVelocity
+imuGyroX
+imuGyroY
+imuGyroZ
+imuAccX
+imuAccY
+imuAccZ
+locomotionMode
+leftGaitPhaseX
+leftGaitPhaseY
+rightGaitPhaseX
+rightGaitPhaseY
